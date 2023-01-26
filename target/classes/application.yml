@@ -14,3 +14,14 @@ spring:
     username: conekta
     password: WZ155YH%
     continueOnError: true
+my:
+  property:
+    data: jdbc:sqlserver://192.168.20.12;database=DataFlowAlpha
+    userData: sa
+    passData: X6*o5lC6GBoo
+    usuarioCorreo: notificaciones@clubalpha.com.mx
+    contrasenaCorreo: 6Respugu
+    copiaOculta2: ivan.najera@centrodeestudiosalpha.edu.mx
+    url: https://oxxo.clubalpha.com.mx/
+    urlSports: http://192.168.20.102:8090/
+    urlPedido: http://192.168.20.107:8000/
